@@ -1,5 +1,5 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/datasphere-content)](https://api.reuse.software/info/github.com/SAP-samples/datasphere-content)
-# SAP Datasphere Content - Samples
+# SAP Datasphere Content - Samples Copied
 This repository contains sample data for the following SAP Datasphere content scenarios:
 1. "Bikes Sales" sample content. Find the details and instructions [here](Sample_Bikes_Sales_content/README.md).
 2. Sample data (CSV) to be used with content SAP Retail: POS Analytics. Find the details and insteuctions [here](SAP_Retail_POS_Analytics/README.md).
